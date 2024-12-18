@@ -1,2 +1,4 @@
 --This is my first GIT porj ---
 v0.1
+--Updating my text file 
+v0.2
